@@ -11,6 +11,7 @@ public class Demo03Methodprint {
             System.out.println("打印的次数为" + i);
             System.out.println("打印的次数" + i);
             System.out.println("打印的次" + i);
+            System.out.println("打次数为" + i);
         }
     }
 }
