@@ -9,6 +9,7 @@ public class Demo03Methodprint {
     public static void printcount(int num){
         for (int i = 1; i < num; i++) {
             System.out.println("打印的次数为" + i);
+            System.out.println("打印的次数" + i);
         }
     }
 }

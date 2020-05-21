@@ -3,7 +3,7 @@ package com.hupan.day01.demo3;
 /**
  * @author hupan
 
- * @javadoc
+ *
 使用方法的时候，注意事项
 1.方法应该定义在类当中，但是不能在方法当中再定义方法。不能X套；
  2.方法定义的前后顺序无所谓；
